@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<Monitors Total="20"> 
+    <Monitor Index="8621" DeviceName="8621" RTSPAddress="rtsp://192.168.88.72:8621/stream" User="" Password="" DeviceNumber="8621" DisplayInCall="0"/> 
+    <Monitor Index="8622" DeviceName="8622" RTSPAddress="rtsp://192.168.88.72:8622/stream" User="" Password="" DeviceNumber="8622" DisplayInCall="0"/> 
+    <Monitor Index="8623" DeviceName="8623" RTSPAddress="rtsp://192.168.88.72:8623/stream" User="" Password="" DeviceNumber="8623" DisplayInCall="0"/> 
+    <Monitor Index="8624" DeviceName="8624" RTSPAddress="rtsp://192.168.88.72:8624/stream" User="" Password="" DeviceNumber="8624" DisplayInCall="0"/> 
+    <Monitor Index="8625" DeviceName="8625" RTSPAddress="rtsp://192.168.88.72:8625/stream" User="" Password="" DeviceNumber="8625" DisplayInCall="0"/> 
+    <Monitor Index="8626" DeviceName="8626" RTSPAddress="rtsp://192.168.88.72:8626/stream" User="" Password="" DeviceNumber="8626" DisplayInCall="0"/> 
+    <Monitor Index="8627" DeviceName="8627" RTSPAddress="rtsp://192.168.88.72:8627/stream" User="" Password="" DeviceNumber="8627" DisplayInCall="0"/> 
+    <Monitor Index="8628" DeviceName="8628" RTSPAddress="rtsp://192.168.88.72:8628/stream" User="" Password="" DeviceNumber="8628" DisplayInCall="0"/> 
+    <Monitor Index="8629" DeviceName="8629" RTSPAddress="rtsp://192.168.88.72:8629/stream" User="" Password="" DeviceNumber="8629" DisplayInCall="0"/> 
+    <Monitor Index="8630" DeviceName="8630" RTSPAddress="rtsp://192.168.88.72:8630/stream" User="" Password="" DeviceNumber="8630" DisplayInCall="0"/> 
+    <Monitor Index="8631" DeviceName="8631" RTSPAddress="rtsp://192.168.88.72:8631/stream" User="" Password="" DeviceNumber="8631" DisplayInCall="0"/> 
+    <Monitor Index="8632" DeviceName="8632" RTSPAddress="rtsp://192.168.88.72:8632/stream" User="" Password="" DeviceNumber="8632" DisplayInCall="0"/> 
+    <Monitor Index="8633" DeviceName="8633" RTSPAddress="rtsp://192.168.88.72:8633/stream" User="" Password="" DeviceNumber="8633" DisplayInCall="0"/> 
+    <Monitor Index="8634" DeviceName="8634" RTSPAddress="rtsp://192.168.88.72:8634/stream" User="" Password="" DeviceNumber="8634" DisplayInCall="0"/> 
+    <Monitor Index="8635" DeviceName="8635" RTSPAddress="rtsp://192.168.88.72:8635/stream" User="" Password="" DeviceNumber="8635" DisplayInCall="0"/> 
+    <Monitor Index="8636" DeviceName="8636" RTSPAddress="rtsp://192.168.88.72:8636/stream" User="" Password="" DeviceNumber="8636" DisplayInCall="0"/> 
+    <Monitor Index="8637" DeviceName="8637" RTSPAddress="rtsp://192.168.88.72:8637/stream" User="" Password="" DeviceNumber="8637" DisplayInCall="0"/> 
+    <Monitor Index="8638" DeviceName="8638" RTSPAddress="rtsp://192.168.88.72:8638/stream" User="" Password="" DeviceNumber="8638" DisplayInCall="0"/> 
+    <Monitor Index="8639" DeviceName="8639" RTSPAddress="rtsp://192.168.88.72:8639/stream" User="" Password="" DeviceNumber="8639" DisplayInCall="0"/> 
+    <Monitor Index="8640" DeviceName="8640" RTSPAddress="rtsp://192.168.88.72:8640/stream" User="" Password="" DeviceNumber="8640" DisplayInCall="0"/> 
+</Monitors> 
